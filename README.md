@@ -1,5 +1,8 @@
 # FarmMarket
 
+**Live demo:** https://farm-market-ebxe.onrender.com (free hosting, first load may take up to a minute)
+**Repository:** https://github.com/Kuky1507/farm-market
+
 A MongoDB project that connects Ugandan smallholder farmers directly to buyers.
 It is the working system behind the mid-semester case study *"FarmMarket: a MongoDB
 database that connects Ugandan smallholder farmers directly to buyers"*.

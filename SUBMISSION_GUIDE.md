@@ -1,5 +1,14 @@
 # Submission guide: repository link and hosted project link
 
+## Final links (both verified working on 19 November 2026)
+
+| Form field | Link |
+|------------|------|
+| Repository Link | https://github.com/Kuky1507/farm-market |
+| Hosted Project link | https://farm-market-ebxe.onrender.com |
+
+Atlas cluster: Cluster0 (free tier), database farm_market, 50 documents. Render service: farm-market, free plan.
+
 The submission form asks for two links:
 
 1. **Repository Link**: a GitHub page holding the code.
@@ -99,10 +108,10 @@ Render runs the Node.js server for free and gives it a public web address.
    Part B step 5. Click **Apply** (or **Deploy Blueprint**).
 5. Wait 2 to 4 minutes. The log should end with
    `MongoDB connected: mongodb+srv://farmmarket:***@...` and `FarmMarket running at ...`.
-6. At the top of the service page there is a link like `https://farm-market-xxxx.onrender.com`.
+6. At the top of the service page there is a link like `https://farm-market-ebxe.onrender.com`.
    Click it. The FarmMarket dashboard should open with 50 records.
 
-**Hosted Project link to paste in the form:** that `https://farm-market-xxxx.onrender.com` address.
+**Hosted Project link to paste in the form:** that `https://farm-market-ebxe.onrender.com` address.
 
 Note: on the free plan the server sleeps after 15 minutes without visitors. The first visit
 after that takes about 30 to 60 seconds to wake up. Open the link yourself a minute before the
@@ -119,7 +128,7 @@ your connection string. Click **Deploy Web Service**.
 
 1. Open the form link the lecturer shared on WhatsApp (docs.google.com/forms/...).
 2. **Repository Link:** `https://github.com/Kuky1507/farm-market`
-3. **Hosted Project link:** `https://farm-market-xxxx.onrender.com`
+3. **Hosted Project link:** `https://farm-market-ebxe.onrender.com`
 4. Fill any other fields (name, registration number 25/BIT/BU/R/1001) and click **Submit**.
 
 Before you submit, open both links in a private browser window to make sure they work
