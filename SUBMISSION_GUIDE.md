@@ -12,6 +12,9 @@ because Part C needs the result of Part A and Part B.
 
 ## Part A: Put the code on GitHub (Repository Link)
 
+**Done.** The repository is live at https://github.com/Kuky1507/farm-market and the code is pushed.
+The steps below are kept for reference only.
+
 The project is already a git repository on your computer with one commit. You only need to
 create an empty repository on GitHub and push to it.
 
@@ -24,13 +27,13 @@ create an empty repository on GitHub and push to it.
    - Leave **Add a README**, **.gitignore** and **license** unticked. The project already has them.
 4. Click **Create repository**. GitHub shows a page with commands. Ignore them and use the ones below.
 5. Open PowerShell in the project folder and run these three commands one at a time.
-   Replace `YOUR-USERNAME` with your GitHub username.
+   Replace `Kuky1507` with your GitHub username.
 
    ```powershell
    cd C:\Users\Kuky\Desktop\farm_market_app\farm-market
    ```
    ```powershell
-   git remote add origin https://github.com/YOUR-USERNAME/farm-market.git
+   git remote add origin https://github.com/Kuky1507/farm-market.git
    ```
    ```powershell
    git push -u origin main
@@ -41,7 +44,7 @@ create an empty repository on GitHub and push to it.
 7. Refresh the GitHub page. You should see the folders `backend`, `frontend`, `requirements`
    and the README displayed underneath.
 
-**Repository Link to paste in the form:** `https://github.com/YOUR-USERNAME/farm-market`
+**Repository Link to paste in the form:** `https://github.com/Kuky1507/farm-market`
 
 ---
 
@@ -115,7 +118,7 @@ your connection string. Click **Deploy Web Service**.
 ## Part D: Fill in the form
 
 1. Open the form link the lecturer shared on WhatsApp (docs.google.com/forms/...).
-2. **Repository Link:** `https://github.com/YOUR-USERNAME/farm-market`
+2. **Repository Link:** `https://github.com/Kuky1507/farm-market`
 3. **Hosted Project link:** `https://farm-market-xxxx.onrender.com`
 4. Fill any other fields (name, registration number 25/BIT/BU/R/1001) and click **Submit**.
 
