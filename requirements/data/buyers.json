@@ -1,0 +1,175 @@
+[
+  {
+    "_id": "B001",
+    "name": "Kisenyi Fresh Traders",
+    "type": "market vendor",
+    "contact": {
+      "person": "Namuli Harriet",
+      "phone": "0701 200 301"
+    },
+    "location": {
+      "district": "Kampala",
+      "area": "Nakasero Market"
+    },
+    "needs": [
+      "tomatoes",
+      "cassava",
+      "matooke"
+    ],
+    "registered_on": {
+      "$date": "2025-02-10T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "B002",
+    "name": "Sunrise Secondary School",
+    "type": "school",
+    "contact": {
+      "person": "Mr. Kato Samuel",
+      "phone": "0772 200 302"
+    },
+    "location": {
+      "district": "Mukono",
+      "area": "Mukono Town"
+    },
+    "needs": [
+      "maize",
+      "beans"
+    ],
+    "monthly_volume_kg": 1500,
+    "payment_terms": "Pays within 14 days",
+    "registered_on": {
+      "$date": "2025-04-22T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "B003",
+    "name": "Lakeview Restaurant",
+    "type": "restaurant",
+    "contact": {
+      "person": "Ms. Nabirye Doreen",
+      "phone": "0753 200 303"
+    },
+    "location": {
+      "district": "Wakiso",
+      "area": "Entebbe"
+    },
+    "needs": [
+      "matooke",
+      "tomatoes",
+      "beans"
+    ],
+    "registered_on": {
+      "$date": "2025-05-30T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "B004",
+    "name": "Pearl Coffee Exporters Ltd",
+    "type": "exporter",
+    "contact": {
+      "person": "Mr. Opio Daniel",
+      "phone": "0782 200 304"
+    },
+    "location": {
+      "district": "Kampala",
+      "area": "Industrial Area"
+    },
+    "needs": [
+      "coffee"
+    ],
+    "required_grade": "FAQ",
+    "registered_on": {
+      "$date": "2024-12-14T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "B005",
+    "name": "Nile Millers Ltd",
+    "type": "processor",
+    "contact": {
+      "person": "Ms. Atim Grace",
+      "phone": "0759 200 305"
+    },
+    "location": {
+      "district": "Jinja",
+      "area": "Njeru"
+    },
+    "needs": [
+      "maize"
+    ],
+    "monthly_volume_kg": 8000,
+    "registered_on": {
+      "$date": "2025-07-07T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "B006",
+    "name": "Gulu Regional Referral Hospital",
+    "type": "hospital",
+    "contact": {
+      "person": "Dr. Ocen Patrick",
+      "phone": "0774 200 306"
+    },
+    "location": {
+      "district": "Gulu",
+      "area": "Gulu City"
+    },
+    "needs": [
+      "beans",
+      "maize",
+      "irish potatoes"
+    ],
+    "monthly_volume_kg": 2500,
+    "payment_terms": "Pays within 30 days",
+    "registered_on": {
+      "$date": "2025-03-03T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "B007",
+    "name": "Mukwano Industries",
+    "type": "processor",
+    "contact": {
+      "person": "Mr. Patel Rajesh",
+      "phone": "0703 200 307"
+    },
+    "location": {
+      "district": "Kampala",
+      "area": "Mukwano Road"
+    },
+    "needs": [
+      "simsim",
+      "groundnuts",
+      "sunflower"
+    ],
+    "monthly_volume_kg": 20000,
+    "required_grade": "A",
+    "registered_on": {
+      "$date": "2024-10-18T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "B008",
+    "name": "Speke Resort Munyonyo",
+    "type": "hotel",
+    "contact": {
+      "person": "Chef Mutebi Allan",
+      "phone": "0788 200 308"
+    },
+    "location": {
+      "district": "Kampala",
+      "area": "Munyonyo"
+    },
+    "needs": [
+      "pineapples",
+      "tomatoes",
+      "matooke",
+      "irish potatoes"
+    ],
+    "payment_terms": "Pays on delivery",
+    "registered_on": {
+      "$date": "2025-06-11T00:00:00.000Z"
+    }
+  }
+]

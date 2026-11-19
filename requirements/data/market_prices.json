@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "M001",
+    "crop": "maize",
+    "market": "Owino Market, Kampala",
+    "date": {
+      "$date": "2026-10-01T00:00:00.000Z"
+    },
+    "price_per_kg_ugx": 1250,
+    "trend": "stable"
+  },
+  {
+    "_id": "M002",
+    "crop": "beans",
+    "market": "Nakasero Market, Kampala",
+    "date": {
+      "$date": "2026-10-01T00:00:00.000Z"
+    },
+    "price_per_kg_ugx": 3500,
+    "trend": "rising"
+  },
+  {
+    "_id": "M003",
+    "crop": "matooke",
+    "market": "Nakasero Market, Kampala",
+    "date": {
+      "$date": "2026-10-02T00:00:00.000Z"
+    },
+    "price_per_kg_ugx": 1700,
+    "trend": "stable"
+  },
+  {
+    "_id": "M004",
+    "crop": "tomatoes",
+    "market": "Owino Market, Kampala",
+    "date": {
+      "$date": "2026-10-02T00:00:00.000Z"
+    },
+    "price_per_kg_ugx": 2600,
+    "trend": "falling"
+  },
+  {
+    "_id": "M005",
+    "crop": "coffee",
+    "market": "Kampala (FAQ robusta)",
+    "date": {
+      "$date": "2026-10-03T00:00:00.000Z"
+    },
+    "price_per_kg_ugx": 7100,
+    "trend": "rising"
+  },
+  {
+    "_id": "M006",
+    "crop": "cassava",
+    "market": "Masaka Main Market",
+    "date": {
+      "$date": "2026-10-03T00:00:00.000Z"
+    },
+    "price_per_kg_ugx": 900,
+    "trend": "stable"
+  },
+  {
+    "_id": "M007",
+    "crop": "simsim",
+    "market": "Lira Main Market",
+    "date": {
+      "$date": "2026-10-04T00:00:00.000Z"
+    },
+    "price_per_kg_ugx": 6000,
+    "trend": "rising"
+  },
+  {
+    "_id": "M008",
+    "crop": "irish potatoes",
+    "market": "Kalerwe Market, Kampala",
+    "date": {
+      "$date": "2026-10-05T00:00:00.000Z"
+    },
+    "price_per_kg_ugx": 2100,
+    "trend": "stable"
+  },
+  {
+    "_id": "M009",
+    "crop": "pineapples",
+    "market": "Nakasero Market, Kampala",
+    "date": {
+      "$date": "2026-10-05T00:00:00.000Z"
+    },
+    "price_per_kg_ugx": 1500,
+    "trend": "falling"
+  },
+  {
+    "_id": "M010",
+    "crop": "groundnuts",
+    "market": "Soroti Main Market",
+    "date": {
+      "$date": "2026-10-06T00:00:00.000Z"
+    },
+    "price_per_kg_ugx": 5200,
+    "trend": "stable"
+  }
+]

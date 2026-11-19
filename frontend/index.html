@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>FarmMarket</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">🌾</span>
+      <div>
+        <h1>FarmMarket</h1>
+        <p>Direct farm-to-buyer produce database for Uganda · MongoDB</p>
+      </div>
+    </div>
+    <nav id="nav">
+      <button data-view="dashboard" class="active">Dashboard</button>
+      <button data-view="farmers">Farmers</button>
+      <button data-view="listings">Produce listings</button>
+      <button data-view="buyers">Buyers</button>
+      <button data-view="orders">Orders</button>
+      <button data-view="market-prices">Market prices</button>
+    </nav>
+  </header>
+
+  <main id="main"></main>
+
+  <div id="modal" class="modal hidden">
+    <div class="modal-card">
+      <div class="modal-head">
+        <h2 id="modal-title"></h2>
+        <button id="modal-close" class="icon-btn" title="Close">✕</button>
+      </div>
+      <form id="modal-form"></form>
+    </div>
+  </div>
+
+  <div id="toast" class="toast hidden"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

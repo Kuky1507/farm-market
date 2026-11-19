@@ -1,0 +1,248 @@
+[
+  {
+    "_id": "F001",
+    "name": "Nakato Joyce",
+    "phone": "0772 100 201",
+    "location": {
+      "district": "Mukono",
+      "subcounty": "Goma",
+      "village": "Kasenge"
+    },
+    "crops_grown": [
+      "maize",
+      "beans"
+    ],
+    "farm_size_acres": 4.5,
+    "cooperative": "Mukono Growers Cooperative",
+    "certifications": [],
+    "mobile_money": {
+      "provider": "MTN",
+      "number": "0772 100 201"
+    },
+    "joined_on": {
+      "$date": "2025-03-12T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "F002",
+    "name": "Ssebugwawo Peter",
+    "phone": "0753 100 202",
+    "location": {
+      "district": "Masaka",
+      "subcounty": "Kyesiiga",
+      "village": "Bukalagi"
+    },
+    "crops_grown": [
+      "matooke",
+      "coffee"
+    ],
+    "farm_size_acres": 8,
+    "certifications": [
+      "UTZ"
+    ],
+    "mobile_money": {
+      "provider": "Airtel",
+      "number": "0753 100 202"
+    },
+    "joined_on": {
+      "$date": "2024-11-05T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "F003",
+    "name": "Akello Brenda",
+    "phone": "0782 100 203",
+    "location": {
+      "district": "Gulu",
+      "subcounty": "Bardege",
+      "village": "Pece"
+    },
+    "crops_grown": [
+      "beans",
+      "simsim"
+    ],
+    "farm_size_acres": 3,
+    "certifications": [],
+    "mobile_money": {
+      "provider": "MTN",
+      "number": "0782 100 203"
+    },
+    "joined_on": {
+      "$date": "2025-06-20T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "F004",
+    "name": "Tumusiime Robert",
+    "phone": "0701 100 204",
+    "location": {
+      "district": "Mbarara",
+      "subcounty": "Kakoba",
+      "village": "Rwemigina"
+    },
+    "crops_grown": [
+      "matooke",
+      "tomatoes"
+    ],
+    "farm_size_acres": 5.5,
+    "cooperative": "Ankole Fresh Growers",
+    "certifications": [],
+    "has_irrigation": true,
+    "mobile_money": {
+      "provider": "MTN",
+      "number": "0701 100 204"
+    },
+    "joined_on": {
+      "$date": "2025-01-18T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "F005",
+    "name": "Namatovu Agnes",
+    "phone": "0759 100 205",
+    "location": {
+      "district": "Wakiso",
+      "subcounty": "Kasangati",
+      "village": "Gayaza"
+    },
+    "crops_grown": [
+      "tomatoes",
+      "cassava"
+    ],
+    "farm_size_acres": 2,
+    "certifications": [],
+    "has_irrigation": true,
+    "mobile_money": {
+      "provider": "Airtel",
+      "number": "0759 100 205"
+    },
+    "joined_on": {
+      "$date": "2025-08-02T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "F006",
+    "name": "Okello Francis",
+    "phone": "0774 100 206",
+    "location": {
+      "district": "Lira",
+      "subcounty": "Adekokwok",
+      "village": "Boroboro"
+    },
+    "crops_grown": [
+      "simsim",
+      "maize",
+      "sunflower"
+    ],
+    "farm_size_acres": 6,
+    "cooperative": "Lango Oilseed Farmers",
+    "certifications": [],
+    "mobile_money": {
+      "provider": "MTN",
+      "number": "0774 100 206"
+    },
+    "joined_on": {
+      "$date": "2025-02-27T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "F007",
+    "name": "Kyomugisha Doreen",
+    "phone": "0756 100 207",
+    "location": {
+      "district": "Kabale",
+      "subcounty": "Rubaya",
+      "village": "Kacerere"
+    },
+    "crops_grown": [
+      "irish potatoes",
+      "beans"
+    ],
+    "farm_size_acres": 1.5,
+    "certifications": [],
+    "has_irrigation": false,
+    "mobile_money": {
+      "provider": "Airtel",
+      "number": "0756 100 207"
+    },
+    "joined_on": {
+      "$date": "2025-09-14T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "F008",
+    "name": "Mugisha Isaac",
+    "phone": "0703 100 208",
+    "location": {
+      "district": "Bushenyi",
+      "subcounty": "Kyabugimbi",
+      "village": "Nyakabirizi"
+    },
+    "crops_grown": [
+      "coffee",
+      "matooke"
+    ],
+    "farm_size_acres": 12,
+    "cooperative": "Bushenyi Coffee Union",
+    "certifications": [
+      "Rainforest Alliance",
+      "Organic"
+    ],
+    "mobile_money": {
+      "provider": "MTN",
+      "number": "0703 100 208"
+    },
+    "joined_on": {
+      "$date": "2024-08-30T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "F009",
+    "name": "Nabukenya Sarah",
+    "phone": "0788 100 209",
+    "location": {
+      "district": "Luwero",
+      "subcounty": "Zirobwe",
+      "village": "Kikyusa"
+    },
+    "crops_grown": [
+      "pineapples",
+      "cassava",
+      "maize"
+    ],
+    "farm_size_acres": 3.5,
+    "certifications": [],
+    "mobile_money": {
+      "provider": "MTN",
+      "number": "0788 100 209"
+    },
+    "joined_on": {
+      "$date": "2025-04-09T00:00:00.000Z"
+    }
+  },
+  {
+    "_id": "F010",
+    "name": "Opio Richard",
+    "phone": "0752 100 210",
+    "location": {
+      "district": "Soroti",
+      "subcounty": "Arapai",
+      "village": "Olio"
+    },
+    "crops_grown": [
+      "groundnuts",
+      "cassava",
+      "sorghum"
+    ],
+    "farm_size_acres": 7,
+    "certifications": [],
+    "has_irrigation": false,
+    "mobile_money": {
+      "provider": "Airtel",
+      "number": "0752 100 210"
+    },
+    "joined_on": {
+      "$date": "2025-07-21T00:00:00.000Z"
+    }
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "_id": "L001",
+    "farmer_id": "F001",
+    "crop": "maize",
+    "variety": "Longe 5",
+    "quantity_kg_available": 1200,
+    "price_per_kg_ugx": 1100,
+    "harvest_date": {
+      "$date": "2026-09-20T00:00:00.000Z"
+    },
+    "status": "available",
+    "attributes": {
+      "moisture_percent": 13,
+      "grade": "A"
+    }
+  },
+  {
+    "_id": "L002",
+    "farmer_id": "F002",
+    "crop": "matooke",
+    "variety": "Mbwazirume",
+    "quantity_kg_available": 900,
+    "price_per_kg_ugx": 1500,
+    "harvest_date": {
+      "$date": "2026-10-05T00:00:00.000Z"
+    },
+    "status": "available",
+    "attributes": {
+      "bunch_count": 60,
+      "maturity": "full"
+    }
+  },
+  {
+    "_id": "L003",
+    "farmer_id": "F002",
+    "crop": "coffee",
+    "variety": "Robusta",
+    "quantity_kg_available": 500,
+    "price_per_kg_ugx": 6800,
+    "harvest_date": {
+      "$date": "2026-09-28T00:00:00.000Z"
+    },
+    "status": "available",
+    "attributes": {
+      "grade": "FAQ",
+      "moisture_percent": 12,
+      "screen_size": "15"
+    }
+  },
+  {
+    "_id": "L004",
+    "farmer_id": "F003",
+    "crop": "beans",
+    "variety": "NABE 15",
+    "quantity_kg_available": 600,
+    "price_per_kg_ugx": 3200,
+    "harvest_date": {
+      "$date": "2026-09-15T00:00:00.000Z"
+    },
+    "status": "available",
+    "attributes": {
+      "colour": "red",
+      "sorted": true
+    }
+  },
+  {
+    "_id": "L005",
+    "farmer_id": "F004",
+    "crop": "tomatoes",
+    "variety": "Kiboko F1",
+    "quantity_kg_available": 300,
+    "price_per_kg_ugx": 2200,
+    "harvest_date": {
+      "$date": "2026-10-08T00:00:00.000Z"
+    },
+    "status": "available",
+    "attributes": {
+      "ripeness": "firm-ripe",
+      "crate_count": 30
+    }
+  },
+  {
+    "_id": "L006",
+    "farmer_id": "F005",
+    "crop": "cassava",
+    "variety": "NASE 14",
+    "quantity_kg_available": 700,
+    "price_per_kg_ugx": 800,
+    "harvest_date": {
+      "$date": "2026-10-01T00:00:00.000Z"
+    },
+    "status": "available",
+    "attributes": {
+      "form": "fresh roots"
+    }
+  },
+  {
+    "_id": "L007",
+    "farmer_id": "F006",
+    "crop": "simsim",
+    "variety": "Sesim 2",
+    "quantity_kg_available": 400,
+    "price_per_kg_ugx": 5500,
+    "harvest_date": {
+      "$date": "2026-09-10T00:00:00.000Z"
+    },
+    "status": "available",
+    "attributes": {
+      "colour": "white",
+      "oil_content_percent": 52
+    }
+  },
+  {
+    "_id": "L008",
+    "farmer_id": "F007",
+    "crop": "irish potatoes",
+    "variety": "Victoria",
+    "quantity_kg_available": 1500,
+    "price_per_kg_ugx": 1800,
+    "harvest_date": {
+      "$date": "2026-10-12T00:00:00.000Z"
+    },
+    "status": "available",
+    "attributes": {
+      "size": "medium",
+      "washed": false
+    }
+  },
+  {
+    "_id": "L009",
+    "farmer_id": "F008",
+    "crop": "coffee",
+    "variety": "Arabica",
+    "quantity_kg_available": 800,
+    "price_per_kg_ugx": 9500,
+    "harvest_date": {
+      "$date": "2026-10-03T00:00:00.000Z"
+    },
+    "status": "available",
+    "attributes": {
+      "grade": "AA",
+      "moisture_percent": 11,
+      "screen_size": "18",
+      "certified": "Organic"
+    }
+  },
+  {
+    "_id": "L010",
+    "farmer_id": "F009",
+    "crop": "pineapples",
+    "variety": "Smooth Cayenne",
+    "quantity_kg_available": 2000,
+    "price_per_kg_ugx": 1200,
+    "harvest_date": {
+      "$date": "2026-10-15T00:00:00.000Z"
+    },
+    "status": "available",
+    "attributes": {
+      "ripeness": "ripe",
+      "average_weight_kg": 1.8
+    }
+  },
+  {
+    "_id": "L011",
+    "farmer_id": "F010",
+    "crop": "groundnuts",
+    "variety": "Serenut 5R",
+    "quantity_kg_available": 350,
+    "price_per_kg_ugx": 4800,
+    "harvest_date": {
+      "$date": "2026-09-25T00:00:00.000Z"
+    },
+    "status": "reserved",
+    "attributes": {
+      "shelled": true,
+      "grade": "B"
+    }
+  },
+  {
+    "_id": "L012",
+    "farmer_id": "F001",
+    "crop": "beans",
+    "variety": "K132",
+    "quantity_kg_available": 0,
+    "price_per_kg_ugx": 3000,
+    "harvest_date": {
+      "$date": "2026-08-30T00:00:00.000Z"
+    },
+    "status": "sold out",
+    "attributes": {
+      "colour": "yellow",
+      "sorted": true
+    }
+  }
+]

@@ -1,0 +1,21 @@
+# Render.com blueprint. Render reads this file when you choose "New > Blueprint"
+# and connect the GitHub repository. It creates one free web service that runs
+# the Express backend and serves the front end.
+#
+# After the service is created, set MONGODB_URI in the Render dashboard to your
+# MongoDB Atlas connection string (Environment tab). It is marked sync: false
+# below so the secret never goes into the repository.
+services:
+  - type: web
+    name: farm-market
+    runtime: node
+    plan: free
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: MONGODB_URI
+        sync: false
